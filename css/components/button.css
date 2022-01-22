@@ -1,0 +1,9 @@
+.cabecalho__menu #botao{
+    background: var(--violeta);
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 8px;
+    border-radius: 8px;
+    /* box-shadow: 4px 4px 0px black; */
+}
