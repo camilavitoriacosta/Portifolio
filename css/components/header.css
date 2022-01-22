@@ -1,13 +1,9 @@
 .cabecalho{
     box-shadow: 4px 4px 0px black;
-    background: purple;
+    background: var(--rosa-forte);
     padding: 8px;
 
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-.cabecalho__imagem{
-    width: 100px;
 }

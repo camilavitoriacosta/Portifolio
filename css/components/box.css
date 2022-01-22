@@ -1,6 +1,6 @@
 .caixa{
     display: inline-block;
-    background: #3a4042;
+    background: var(--rosa-forte);
     box-shadow: 10px 10px 0 black;
     text-align: center;
     padding: 42px 44px;

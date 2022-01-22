@@ -1,4 +1,16 @@
-:root{
+:root{   
+    --preto-acizentado: #3a4042;
+    --rosa-forte: #ba647c;
+    --violeta: #DB7093; 
+    --rosa-pink: #FFC0CB;
+    --verde-agua: #20B2AA;
+    --verde-agua-forte: #158c8a;
+
     --roxo-claro: #DFCCD0;
-    --violeta: palevioletred;
+    --violeta-roxo: #ee82ee;
+    --verde-escuro: #627264;
+    --verde-medio: #A1CDA8;
+    --verde-claro: #B5DFCA;
+    --azul-claro: #C5E7E2;
+    --roxo-medio: #AD9BAA;
 }
