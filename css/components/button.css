@@ -6,5 +6,11 @@
     background: var(--violeta);
     box-shadow: 4px 4px 0px black;
     padding: 18px 20px;
-    margin-right: 0px;   
+    margin-right: 0px;
+
+    transition: transform 2s;
+}
+
+.botao:hover{
+    transform: scale(1.1);
 }
