@@ -1,0 +1,25 @@
+.banner{
+    background: url(../../assets/img/background.png);
+    background-size: cover;
+    background-repeat: repeat;
+    height: 500px;
+    border-bottom: 10px solid black;
+    box-sizing: border-box;
+}
+
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 630px;
+    padding-top: 115px;
+    padding-left: 90px;
+}
+
+.banner .caixa{
+    margin-bottom: 40px;
+}
+
+.banner .botoes{
+    display: flex;
+    justify-content: space-around;
+}
