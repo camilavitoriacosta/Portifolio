@@ -1,6 +1,6 @@
 .titulo__principal{
     font-family: 'Press Start 2P', sans-serif;
-    font-size: 40px;
+    font-size: 32px;
     color: var(--violeta);
     text-shadow: 4px 4px 0px black;
     /*text-shadow: x y blur cor */
