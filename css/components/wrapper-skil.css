@@ -1,0 +1,19 @@
+.wrapper__skill{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.wrapper__skill .skill{
+    width: 430px;
+    margin-bottom: 40px;
+}
+
+.wrapper__skill .skill:nth-child(odd){
+    margin-right: 100px;
+}
+
+.wrapper__skill .barra__progresso{
+    width: 320px;
+}
