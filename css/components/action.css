@@ -1,0 +1,22 @@
+.action{
+    display: inline-flex;
+    align-items: center;
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.action:hover{
+    color: var(--roxo-claro);
+    border-bottom: 2px solid var(--roxo-claro);
+}
+
+.action::before{
+    content: "";
+    background: var(--violeta);
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    box-shadow: 4px 4px 0 var(--roxo-claro);
+}
