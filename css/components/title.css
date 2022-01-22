@@ -5,3 +5,9 @@
     text-shadow: 4px 4px 0px black;
     /*text-shadow: x y blur cor */
 }
+
+.titulo.--second{
+    color: whitesmoke;
+    text-shadow: none;
+    text-align: center;
+}
