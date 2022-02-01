@@ -1,12 +1,12 @@
-.barra__progresso{
-    box-sizing: border-box;
-    background: whitesmoke;
-    border: 5px solid black;
-    height: 40px;
+.container__barra__progresso {
+    background: var(--preto-acizentado);
+    border-radius: 10px;
+    height: 10px;
+    width: 100%;
 }
 
-.barra__progresso::-webkit-progress-bar,
-.barra__progresso::-moz-progress-bar 
-{
-    background-color: var(--verde-agua-forte);
+.barra__progresso {
+    background: var(--violeta);
+    border-radius: 10px;
+    height: 100%;
 }
