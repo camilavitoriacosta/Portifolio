@@ -1,0 +1,18 @@
+.card__project{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    background-color: var(--verde-agua);
+    box-shadow: 10px 10px 0px white;
+    width: 280px;
+    height: 280px;
+}
+
+.card__project.violeta{
+    background-color: var( --violeta);
+}
+
+.logo{
+    width: 60%;
+}
