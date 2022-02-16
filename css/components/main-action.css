@@ -1,4 +1,4 @@
-.action{
+.main__action{
     display: inline-flex;
     align-items: center;
     color: whitesmoke;
@@ -7,12 +7,12 @@
     margin-right: 30px;
 }
 
-.action:hover{
+.main__action:hover{
     color: var(--roxo-claro);
     border-bottom: 2px solid var(--roxo-claro);
 }
 
-.action::before{
+.main__action::before{
     content: "";
     background: var(--violeta);
     width: 10px;
