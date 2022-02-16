@@ -1,9 +1,17 @@
 .secao__conteudo{
     background: var(--verde-agua-forte);
     padding: 50px 0 100px 0;
-    border-bottom: 10px solid var(--violeta);
+    border-bottom: 10px solid var(--rosa-forte);
 }
 
 .secao__conteudo .titulo.--second{
     margin-bottom: 60px;
+}
+
+.secao__conteudo.bgVioleta{
+    background-color: var(--violeta);
+}
+
+.secao__conteudo.bordaVerde{
+    border-color: var(--verde-agua);
 }
